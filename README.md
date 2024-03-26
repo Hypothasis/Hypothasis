@@ -2,6 +2,7 @@
 
 ### Sobre mim
 - 🎓 Estudante de Engenharia de Computação na UNILAB.
+- 📢 Estudando DevOps no programa IT Talent.
 - 💻 Interesses: Desenvolvimento Mobile, Desenvolvimento Web e DevOps
 - 💬 Vamos conversar sobre Web, Mobile, Iot.
 
