@@ -7,7 +7,7 @@
 - 💬 Vamos conversar sobre Web, Mobile, Iot.
 
 ### Experiência e Conquistas
-- 🚀 Criando um Projeto para TCC usando Iot com aplicação Mobile e Web para automação de McroIrrigação por Gotejamento.
+- 🚀 Criando um Projeto para TCC usando Iot com aplicação Mobile e Web para automação de MicroIrrigação por Gotejamento.
 - 💼 Realizou participação na diretoria de projetos da Empresa Jr da Engenharia de Computação na UNILAB, colaborando com desenvolvimento da empresa
 
 ### Atualmente focado nessas Tecnologias:
